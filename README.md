@@ -20,10 +20,12 @@ Following packages will be required to run this in an environment
   
 ## Results & Summary
 The test data is relatively small with 225 users from which 52 have churned. We create some basic features like number of songs and artists heard, 
-number of unique pages visited etc... Please visit my blog post for more details.<>
+number of unique pages visited etc... Please visit my [blog](https://naveedrafi.medium.com/user-churn-prediction-with-spark-fd99b6c568e4) post for more details
 
 Using 3 classifcation models: Logistic Rregression, Random Forest and Gradient Boosted Trees (GBT) with default params we find that the GBT gives us the best f1
-score of 0.83. We user hyper parameter tuning to improve the the scores ending with an f1 score of <>
+score of ~ 0.8. We use hyper parameter tuning but that doesn't improve the score so we stick with the base parameter.
+
+Top indicators of churn involves how much of the app a user has explored and how long the user has been using the app.
 
 ## References
 The project was made possible due to an entire communicty of data scientists solving similar problems and a lot of preparation material provided by udacity.
