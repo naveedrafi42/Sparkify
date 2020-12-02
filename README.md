@@ -33,6 +33,6 @@ The project was made possible due to an entire communicty of data scientists sol
 Other key sources that guided my approach are:
   - [Spark documentation](https://spark.apache.org/docs/latest/index.html)
   - [Ok-Udacity](https://github.com/ok-udacity/sparkify/blob/master/Sparkify.ipynb)
-  - [https://github.com/francisjo/Udacity-Sparkify-Project](https://github.com/francisjo/Udacity-Sparkify-Project)
+  - [francisjo](https://github.com/francisjo/Udacity-Sparkify-Project)
 
 
