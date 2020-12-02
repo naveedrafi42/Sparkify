@@ -17,6 +17,7 @@ Following packages will be required to run this in an environment
   
 ## Files
   - Sparkify.ipynb: This is the main file containing all the code for the project.
+  - mini_sparkify_event_data.json.zip: This contains sample data.
   
 ## Results & Summary
 The test data is relatively small with 225 users from which 52 have churned. We create some basic features like number of songs and artists heard, 
